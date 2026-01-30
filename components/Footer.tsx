@@ -14,11 +14,6 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2">
               <li>
-                <a href="mailto:hello@aireelstudio.com" className="hover:text-white transition-colors">
-                  hello@aireelstudio.com
-                </a>
-              </li>
-              <li>
                 <a
                   href="https://wa.me/+919702270708"
                   target="_blank"
