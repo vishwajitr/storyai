@@ -15,7 +15,7 @@ export default function FinalCTA() {
           Get Started from ₹5,000
         </a>
         <p className="mt-8 text-purple-100">
-          Questions? <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">WhatsApp us</a> for instant support
+          Questions? <a href="https://wa.me/+919702270708" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">WhatsApp us</a> for instant support
         </p>
       </div>
     </section>

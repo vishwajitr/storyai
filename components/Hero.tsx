@@ -17,7 +17,7 @@ export default function Hero() {
               Get Sample Video
             </a>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/+919702270708"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition-colors shadow-lg hover:shadow-xl text-center flex items-center justify-center gap-2"

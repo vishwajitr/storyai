@@ -20,7 +20,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/+919702270708"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors flex items-center gap-2"
@@ -48,7 +48,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/919876543210?text=I%20need%20help" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://wa.me/+919702270708?text=I%20need%20help" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   Support
                 </a>
               </li>

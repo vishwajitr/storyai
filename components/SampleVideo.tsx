@@ -29,7 +29,7 @@ export default function SampleVideo() {
               Want to see how your product will look with our AI influencer?
             </p>
             <a
-              href="https://wa.me/919876543210?text=I%20want%20to%20see%20a%20sample%20video%20for%20my%20product"
+              href="https://wa.me/+919702270708?text=I%20want%20to%20see%20a%20sample%20video%20for%20my%20product"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition-colors"

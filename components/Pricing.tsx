@@ -56,7 +56,7 @@ export default function Pricing() {
             </ul>
 
             <a
-              href="https://wa.me/919876543210?text=I%20want%20to%20start%20with%201%20video"
+              href="https://wa.me/+919702270708?text=I%20want%20to%20start%20with%201%20video"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full py-4 px-6 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition-colors text-center"
@@ -113,7 +113,7 @@ export default function Pricing() {
             </ul>
 
             <a
-              href="https://wa.me/919876543210?text=I%20want%20the%20monthly%20pack%20with%203%20videos"
+              href="https://wa.me/+919702270708?text=I%20want%20the%20monthly%20pack%20with%203%20videos"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full py-4 px-6 bg-white text-purple-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors text-center"
